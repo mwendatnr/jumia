@@ -1,0 +1,30 @@
+form{
+    background-color: #3c538a;
+    padding: 70px;
+}
+input[type=text]{
+    width: 70%;
+    height: 40px;
+
+
+}
+legend{
+    margin-bottom: 50px;
+    color: white;
+}
+label{
+    margin-left: 50px;
+    color: white;
+
+}
+input{
+    margin-left: 20px;
+
+
+}
+select{
+    margin-left: 20px;
+}
+fieldset{
+    padding-bottom: 30px;
+}
